@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Mar 10 12:17:01 2020
+
+@author: Lee
+"""
+
+
+This file records the useful shortcut in spyder.
+
+
+Restart kernel:
+    1. select console
+    2. ctrl + .
+    
+Comment and uncomment:
+    ctrl + 1
