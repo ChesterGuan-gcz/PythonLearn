@@ -145,25 +145,3 @@ number = 1
 print("This is a string {}".format(number))
 
 #float formatting: {value: width.precision f} 
-#width: how long you want this string to be
-result = 100/7
-print("The result was {r}".format(r=result))
-print("The result was {r:1.3f}".format(r=result))
-print("The result was {r:10.5f}".format(r=result))#this will add space to the number
-
-#f-string
-name = "Tom"
-age = 13
-print(f'Hello, {name}. you are {age} years olds')
-
-
-
-
-
-
-
-
-
-
-
-

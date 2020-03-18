@@ -15,3 +15,73 @@ Restart kernel:
     
 Comment and uncomment:
     ctrl + 1
+
+Format line into block comment:
+    ctrl + 4
+    
+undo block comment formatting :
+    ctrl + 5
+    
+Highlight Next/Previous Line:
+    shift + Down/Up
+    
+Go Start of Next word:
+    ctrl + Left/Right
+    
+Go to Start or End of line:
+    Home/End
+
+
+Delete line:
+    ctrl + D
+    
+
+Replace Text:
+    ctrl + R 
+    
+Code completion:
+    ctrl + space
+    
+
+cycle to previous/next file:
+    ctrl + PageUp/ PageDown
+    
+    
+switch to editor pane
+    ctrl + shift + E
+
+switch to Ipython console pane    
+    ctrl + shift + I
+    
+switch to help pane
+    ctrl + shift + H
+
+fullscreen mode
+    F11
+    
+open new file
+    ctrl + N
+    
+open existing file:
+    ctrl + O
+    
+save as:
+    ctrl + shift + S
+    
+save all:
+    ctrl + alt + S
+    
+run:
+    F5
+    
+run selected:
+    ctrl + enter
+    
+close file:
+    ctrl + w
+    
+close all file:
+    ctrl + shift + w
+    
+quit spyder:
+    ctrl + q
